@@ -17,6 +17,7 @@ Conduct exploratory data analysis to uncover insights and trends.
 Model Building:
 
 Choose and train a regression model using historical data.
+
 **Model Deployment:**
 
 Develop an interactive web application using Streamlit.
